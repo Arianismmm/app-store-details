@@ -1,0 +1,52 @@
+/* style.css */
+.app-details-holder {
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  direction: rtl;
+  text-align: right;
+}
+
+.single-app-image-holder img {
+  border-radius: 16px;
+  border: 1px solid #ddd;
+}
+
+.app-name-holder h3 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.app-author {
+  font-size: 14px;
+  color: #666;
+}
+
+.app-meta-holder {
+  margin-top: 20px;
+}
+
+.app-meta {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.shots-holder {
+  margin-top: 20px;
+}
+
+.shots-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.shots-inner img {
+  border-radius: 10% / 4.7%;
+  border: 1px solid #777;
+  width: 160px;
+  margin-right: 10px;
+}
